@@ -1,0 +1,5 @@
+ /db/data/*
+ .idea
+/app/vendor/
+.idea/
+/db/data/
